@@ -1,0 +1,33 @@
+Western Illinois,1,#1 Arkansas,9,FINAL
+Seton Hall,0,#2 North Carolina,1,FINAL
+Maryland,0,#3 LSU,1,FINAL
+Long Beach State,4,#4 Vanderbilt,10,FINAL
+Minnesota,6,#5 UCLA,2,FINAL
+Liberty,3,#6 South Carolina,4,FINAL
+#7 Stanford,1,#18 Rice,5,FINAL
+#8 Oregon,3,Hawaii,0,FINAL
+Appalachian State,6,#9 NC State,3,FINAL
+Utah Valley,2,#10 Oregon State,5,FINAL
+Rhode Island,5,#11 Florida State,11,FINAL
+#12 Kentucky,9,UNC Asheville,2,FINAL
+#13 TCU,0,#25 Mississippi,1,FINAL
+Coppin State,0,#14 Arizona,16,FINAL
+Duke,4,#15 Florida,3,FINAL
+Portland,1,#16 Mississippi State,16,FINAL
+Hofstra,4,#17 Oklahoma,10,FINAL
+Indiana,2,#19 Louisville,0,FINAL
+San Diego State,8,#20 San Diego,1,FINAL
+Akron,0,#21 Georgia Tech,3,FINAL
+Bethune-Cookman,4,#22 Arizona State,5,FINAL
+Southern California,2,#23 Cal State Fullerton,3,FINAL
+Illinois-Chicago,2,#24 Texas A&M;,0,FINAL
+Sacramento State,5,#26 Texas,6,FINAL
+#27 Baylor,4,#33 UC Irvine,6,FINAL
+William and Mary,0,#28 Clemson,2,FINAL
+Rutgers,,#29 Miami, Florida,,Postponed
+#30 Virginia,14,East Carolina,4,FINAL
+#31 Kent State,6,UNC Wilmington,7,FINAL
+Virginia Tech,10,#31 Kent State,9,FINAL
+Missouri,2,#32 Southern Mississippi,5,FINAL
+Oklahoma State,4,#34 New Mexico,2,FINAL
+James Madison,3,#35 Coastal Carolina,4,FINAL
